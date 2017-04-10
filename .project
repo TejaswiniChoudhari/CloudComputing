@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>WorkflowSim</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>examples</name>
+			<type>2</type>
+			<location>/home/mandar/Documents/WorkflowSim/WorkflowSim-1.0/examples</location>
+		</link>
+		<link>
+			<name>resources</name>
+			<type>2</type>
+			<location>/home/mandar/Documents/WorkflowSim/WorkflowSim-1.0/sources/resources</location>
+		</link>
+		<link>
+			<name>sources</name>
+			<type>2</type>
+			<location>/home/mandar/Documents/WorkflowSim/WorkflowSim-1.0/sources</location>
+		</link>
+	</linkedResources>
+</projectDescription>
